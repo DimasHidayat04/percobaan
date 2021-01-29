@@ -15,7 +15,7 @@ public class Beranda extends javax.swing.JFrame {
      * Creates new form Beranda
      */
     public Beranda() {
-        initComponents();
+        initComponents()
     }
 
     /**
